@@ -1,7 +1,5 @@
 # Simulating Air Traffic With Azure #
 
----
-
 ## Overview ##
 
 This repo was originally content for the Cloud City IoT Hack, an event with a hands-on introduction using some of the best features Microsoft Azure has to offer, including [IoT Hubs](https://azure.microsoft.com/services/iot-hub/), [Event Hubs](https://azure.microsoft.com/services/event-hubs/), [Azure Functions](https://azure.microsoft.com/services/functions/), [Stream Analytics](https://azure.microsoft.com/services/stream-analytics/), and [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/). The four hands-on "labs" are located in folders named HOL 1, HOL 2, HOL 3, and HOL 4. Here's a quick summary of those labs:
