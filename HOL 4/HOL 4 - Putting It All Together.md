@@ -446,4 +446,4 @@ Your MXChip transmits messages containing accelerometer data to an Azure IoT Hub
 
 This a great example of how enterprise developers build end-to-end solutions by connecting Azure services and utilizing those services from their code. And the fact that you could assemble it all in one day, from scratch, is indicative of the richness of the Azure ecosystem and of the tools that support it.
 
-Cloud City — over and out!
+Cloud City — over and out! 
