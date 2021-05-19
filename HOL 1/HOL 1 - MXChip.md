@@ -120,11 +120,7 @@ In this exercise, you will compile an embedded C++ app that transmits events to 
 
 1. After the device restarts, confirm that the message "IN FLIGHT" appears on the screen of the device, followed by X, Y, and Z values that change when you tilt the board in any direction. These are the accelerometer values passed to the IoT Hub. The fact that they appear on the screen confirms that the upload was successful and that the app is running on the device.
 
-	![The MXChip display shows a label of "In Flight" with telemetry data for x, y and z axis readings from the onboard gyroscope.](Images/chip-in-flight.png)
-
-    _MXChip with your embedded code running on it_
-
-We know that the device is transmitting events. Now let's make sure those events are being received by the IoT Hub.
+	![The MXChip display shows a label of "In Flight" with telemetry data for x, y and z axis readings from the onboard gyroscope.]
 
 <a name="Exercise4"></a>
 ## Exercise 4: Check IoT Hub activity ##
